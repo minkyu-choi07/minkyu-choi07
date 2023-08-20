@@ -10,7 +10,7 @@ Throughout my career, I have worked in both commercial and government sectors, a
 
 ## 📫 Contact Me on Social Media
 
-[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] | [Google Scholar][2] | ✉️[Email](minkyu.choi07@gmail.com) |
+[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] | [Google Scholar][2] | ✉️[Email](mailto:minkyu.choi07@gmail.com) |
 
 ## 💡 Projects with My Work
 
