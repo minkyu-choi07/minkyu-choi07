@@ -9,7 +9,7 @@ Hi guys, I'm **Minkyu Choi**. I am a graduate researcher at University of Texas 
 
 ## 📫 Contact Me on Social Media
 
-[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] | [Google Scholar][2] | [Medium][3] ✉️[Email](mailto:minkyu.choi07@gmail.com) |
+[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] | [Google Scholar][2] | [Medium][3] | ✉️[Email](mailto:minkyu.choi07@gmail.com) |
 
 ## 💡 Projects with My Work
 
@@ -23,7 +23,7 @@ And get all my post articles in my blog 📝 [**Minkyu's Blog**](https://minkyuc
 ## 💻 Open Source Work Stats
 
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=lizheming&show_icons=true)
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=minkyu-choi07&show_icons=true)
 
 <!--
 **lizheming/lizheming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
