@@ -5,12 +5,12 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/minkyu-choi07)
 
-Hi guys, I'm **Minkyu Choi**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+Hi guys, I'm **Minkyu Choi**. I am a graduate researcher at University of Texas at Austin and Senior AI/ML Research Engineer at Lockheed Martin. My research interests include Deep Reinforcement Learning, Neuro-Symbolic AI, and AI and Human Interaction. I'm currently a member of [UT Austin Swarm Lab](https://utaustin-swarmlab.github.io).  
+Throughout my career, I have worked in both commercial and government sectors, and has a wealth of experience in a variety of machine learning and deep learning projects.
 
 ## 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Sina Weibo][0] | [Zhihu][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:i@imnerd.org) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
+[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] or just ✉️ [Email](minkyu.choi07@gmail.com) |
 
 ## 💡 Projects with My Work
 
@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[-1]: https://www.facebook.com/Austin.Lee.9173/
-[0]: https://m.weibo.cn/u/1694884707
-[1]: https://www.zhihu.com/people/lizheming
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming
+[-1]: https://minkyuchoi-07.github.io/about/
+[0]: https://twitter.com/MinkyuChoi7
+[1]: https://www.linkedin.com/in/mchoi07/
