@@ -5,24 +5,20 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.lithub.cc/badge?page_id=github.com/minkyu-choi07)
 
-Hi guys, I'm **Minkyu Choi**. I am a graduate researcher at University of Texas at Austin and Senior AI/ML Research Engineer at Lockheed Martin. My research interests include Deep Reinforcement Learning, Neuro-Symbolic AI, and AI and Human Interaction. I'm currently a member of [UT Austin Swarm Lab](https://utaustin-swarmlab.github.io).  
-Throughout my career, I have worked in both commercial and government sectors, and has a wealth of experience in a variety of machine learning and deep learning projects.
+Hi guys, I'm **Minkyu Choi**. I am a graduate researcher at University of Texas at Austin and Senior AI/ML Research Engineer at Lockheed Martin. My research interests include Deep Reinforcement Learning, Neuro-Symbolic AI, and AI and Human Interaction. I'm currently a member of [UT Austin Swarm Lab](https://utaustin-swarmlab.github.io). Throughout my career, I have worked in both commercial and government sectors, and has a wealth of experience in a variety of machine learning and deep learning projects.
 
 ## 📫 Contact Me on Social Media
 
-[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] | [Google Scholar][2] | ✉️[Email](mailto:minkyu.choi07@gmail.com) |
+[Personal Website][-1] | [Twitter][0] | [LinkedIn][1] | [Google Scholar][2] | [Medium][3] ✉️[Email](mailto:minkyu.choi07@gmail.com) |
 
 ## 💡 Projects with My Work
 
-- [**75.team**](https://75.team): The Official Blog for 75team, the largest front end team in @Qihoo360.
-- [**75CDN**](https://cdn.baomitu.com): The best CDN for web related libraries to speed up your websites, mirror from @cdnjs.
-- [**声享**](https://ppt.baomitu.com): Create and share your presentations online.
+- [**UT Austin Swarm Lab**](https://utaustin-swarmlab.github.io)): The Official Website for UT Austin Swarm Lab
+- [**Personal Website**](https://minkyuchoi-07.github.io)): My personal website and blog
 
 ## 📚 Tech Articles and Talks 
 
-You can find a list of my talks' presentation on 📖 **[ppt.baomitu.com](https://ppt.baomitu.com/u/lizheming)**. 
-
-And get all my post articles in my blog 📝 [**zh.eming.li**](https://imnerd.org). 
+And get all my post articles in my blog 📝 [**Minkyu's Blog**](https://minkyuchoi-07.github.io/archives/). 
  
 ## 💻 Open Source Work Stats
 
@@ -47,3 +43,4 @@ Here are some ideas to get you started:
 [0]: https://twitter.com/MinkyuChoi7
 [1]: https://www.linkedin.com/in/mchoi07/
 [2]: https://scholar.google.com/citations?user=ai4daB8AAAAJ&hl=en
+[3]: https://medium.com/@minkyu.choi
