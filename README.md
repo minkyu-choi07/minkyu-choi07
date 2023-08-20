@@ -13,8 +13,8 @@ Hi guys, I'm **Minkyu Choi**. I am a graduate researcher at University of Texas 
 
 ## 💡 Projects with My Work
 
-- [**UT Austin Swarm Lab**](https://utaustin-swarmlab.github.io)): The Official Website for UT Austin Swarm Lab
-- [**Personal Website**](https://minkyuchoi-07.github.io)): My personal website and blog
+- [**UT Austin Swarm Lab**](https://utaustin-swarmlab.github.io): The Official Website for UT Austin Swarm Lab
+- [**Personal Website**](https://minkyuchoi-07.github.io): My personal website and blog
 
 ## 📚 Tech Articles and Talks 
 
